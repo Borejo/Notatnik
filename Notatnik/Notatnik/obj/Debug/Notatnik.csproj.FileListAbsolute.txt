@@ -8,3 +8,14 @@ C:\Users\VLO\Desktop\Notatnik\Notatnik\obj\Debug\Notatnik.csproj.GenerateResourc
 C:\Users\VLO\Desktop\Notatnik\Notatnik\obj\Debug\Notatnik.csproj.CoreCompileInputs.cache
 C:\Users\VLO\Desktop\Notatnik\Notatnik\obj\Debug\Notatnik.exe
 C:\Users\VLO\Desktop\Notatnik\Notatnik\obj\Debug\Notatnik.pdb
+C:\Users\Kuba\Source\Repos\Borejo\Notatnik\Notatnik\Notatnik\bin\Debug\Notatnik.exe.config
+C:\Users\Kuba\Source\Repos\Borejo\Notatnik\Notatnik\Notatnik\bin\Debug\Notatnik.exe
+C:\Users\Kuba\Source\Repos\Borejo\Notatnik\Notatnik\Notatnik\bin\Debug\Notatnik.pdb
+C:\Users\Kuba\Source\Repos\Borejo\Notatnik\Notatnik\Notatnik\obj\Debug\Notatnik.csproj.AssemblyReference.cache
+C:\Users\Kuba\Source\Repos\Borejo\Notatnik\Notatnik\Notatnik\obj\Debug\Notatnik.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kuba\Source\Repos\Borejo\Notatnik\Notatnik\Notatnik\obj\Debug\Notatnik.Form1.resources
+C:\Users\Kuba\Source\Repos\Borejo\Notatnik\Notatnik\Notatnik\obj\Debug\Notatnik.Properties.Resources.resources
+C:\Users\Kuba\Source\Repos\Borejo\Notatnik\Notatnik\Notatnik\obj\Debug\Notatnik.csproj.GenerateResource.cache
+C:\Users\Kuba\Source\Repos\Borejo\Notatnik\Notatnik\Notatnik\obj\Debug\Notatnik.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\Source\Repos\Borejo\Notatnik\Notatnik\Notatnik\obj\Debug\Notatnik.exe
+C:\Users\Kuba\Source\Repos\Borejo\Notatnik\Notatnik\Notatnik\obj\Debug\Notatnik.pdb
